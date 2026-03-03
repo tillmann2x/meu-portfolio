@@ -4,8 +4,8 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  // Define o caminho base como o nome do repositório no GitHub
-  base: "/kauan-s-digital-realm/",
+  // Ajustado para o nome real do seu repositório no GitHub
+  base: "/meu-portfolio/", 
   server: {
     host: "::",
     port: 8080,
